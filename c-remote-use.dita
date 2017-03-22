@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_ejq_wpv_hz">
- <title></title>
- <shortdesc></shortdesc>
+ <title>Remote Use</title>
+ <shortdesc>The remote should be used to turn the lights on and off. The remote can also be used to
+  dim the lights. The remote should not be used for any other purposes other than turning the lights
+  on and off as well as dimming them.</shortdesc>
  <conbody>
-  <p></p>
+  <p>Do not use the remote to turn the television on. Turning the television on is very dangerous.
+  </p>
  </conbody>
 </concept>
