@@ -78,7 +78,7 @@
                     lighting group was not activated and you must try again. Light flashes red for 3
                     seconds if programming fails.</stepresult>
             </step>
-            <step>
+            <step conref="c-remote-use.dita#disclaimer/legal"> 
                 <cmd>Leave the light fixture switches ON so that power is available when using your
                     remote control to turn the light bulbs on and off. Also remember to turn on any
                     excluded fixtures that you turned off in Step <xref
