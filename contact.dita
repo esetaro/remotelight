@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD LW DITA Topic//EN" "topic.dtd">
+<topic id="contact information ">
+  <title>Contact Information for Remotelight Production Team</title>
+  <body>
+    <p>If you have any questions you should contact the Production Team for the Remotelight. There are many ways that you can contact the team such as by phone or by email. </p>
+    <steps> 
+      <step>
+        <cmd> Dial 1-800-465-2646</cmd>
+      </step>
+      <step>
+        <cmd> Leave a message </cmd>
+      </step>
+   </steps>
+  </body>
+</topic>
