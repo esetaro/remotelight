@@ -1,16 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD LW DITA Topic//EN" "topic.dtd">
-<topic id="contact information ">
+<topic id="contactinformation ">
   <title>Contact Information for Remotelight Production Team</title>
+  <shortdesc>Contact Information is important for customers.</shortdesc>
   <body>
-    <p>If you have any questions you should contact the Production Team for the Remotelight. There are many ways that you can contact the team such as by phone or by email. </p>
-    <steps> 
-      <step>
-        <cmd> Dial 1-800-465-2646</cmd>
-      </step>
-      <step>
-        <cmd> Leave a message </cmd>
-      </step>
-   </steps>
+    <p>If you have any questions you should contact the Production Team for the Remotelight. There are many ways that you can contact the team such as by phone or by email. The email address that you shoud you use is remotelight@gmail.com. For a phone number, dial the number 1-800-576-3848. When calling you should be able to speak with Bob. When sending an email be sure to address it to Mr. Williams. </p>
+
   </body>
 </topic>
