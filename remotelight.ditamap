@@ -31,4 +31,5 @@
  <topicref href="c-remote-use.dita"/>
  <topicref href="ts-remoteoff.dita"/>
  <topicref href="osha-warning.dita" toc="no" processing-role="resource-only" />
+ <topicref href="contactinfo.md" format="markdown">  <topicmeta> <shortdesc> Click here to contact us! We would love to hear from you! </shortdesc> </topicmeta> </topicref>
 </map>
